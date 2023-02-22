@@ -1,6 +1,6 @@
 #### julia
 
-# Julia Code
+# Basics
 
 #### To print code:
 ```
