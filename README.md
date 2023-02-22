@@ -1,2 +1,2 @@
-#### Julia
+#### julia
 # Learning Julia Repository
